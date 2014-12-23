@@ -1,0 +1,36 @@
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\MainWindow.baml
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\MainWindow.g.cs
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\App.g.cs
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer_MarkupCompile.cache
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.g.resources
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.Properties.Resources.resources
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.GenerateResource.Cache
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+c:\users\zatri_000\documents\visual studio 2013\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+C:\Projects\RRFileRenamer\bin\Debug\FileRenamer.exe.config
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.exe
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.pdb
+C:\Projects\RRFileRenamer\bin\Debug\FileRenamer.exe
+C:\Projects\RRFileRenamer\bin\Debug\FileRenamer.pdb
+C:\Projects\RRFileRenamer\obj\Debug\MainWindow.baml
+C:\Projects\RRFileRenamer\obj\Debug\MainWindow.g.cs
+C:\Projects\RRFileRenamer\obj\Debug\App.g.cs
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer_MarkupCompile.cache
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.g.resources
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.Properties.Resources.resources
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.csproj.GenerateResource.Cache
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer_MarkupCompile.lref
+C:\Projects\RRFileRenamer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Projects\RRFileRenamer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Projects\RRFileRenamer\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Projects\RRFileRenamer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Projects\RRFileRenamer\bin\Debug\FileRenamer.exe.manifest
+C:\Projects\RRFileRenamer\bin\Debug\FileRenamer.application
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.TrustInfo.xml
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.exe.manifest
+C:\Projects\RRFileRenamer\obj\Debug\FileRenamer.application
